@@ -1,0 +1,5 @@
+{
+  "name": "Surgical RAG Studio",
+  "description": "A hyperefficient SPA for prompt engineering, embedding, and workflow documentation.",
+  "requestFramePermissions": []
+}
